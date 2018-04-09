@@ -22,9 +22,9 @@
 		"fieldName"		"TitleGradient"
 		"xpos"		"9999"
 		"ypos"		"0"
-		"wide"		"f0"
+		"wide"		"0"
 		"tall"		"0"
-		"zpos"	"0"
+		"zpos"	"98"
 		"visible"		"1"
 		"enabled"		"1"
 		"rotation"		"3"
@@ -50,8 +50,8 @@
 		}
 
 		"ypos"		"0"
-		"wide"		"0"
-		"tall"		"0"
+		"wide"		"30"
+		"tall"		"f0"
 		"zpos"	"1000"
 		"visible"		"1"
 		"enabled"		"1"
@@ -77,8 +77,8 @@
 		}
 
 		"ypos"		"0"
-		"wide"		"0"
-		"tall"		"0"
+		"wide"		"20"
+		"tall"		"f0"
 		"zpos"	"1000"
 		"visible"		"1"
 		"enabled"		"1"
@@ -96,12 +96,12 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CloseButton"
-		"xpos"			"rs1"
+		"xpos"			"9999"
 		"labelText"		">"
 
 		if_left
 		{
-			"xpos"		"0"
+			"xpos"		"9999"
 			"labelText"		"<"
 		}
 
@@ -161,7 +161,7 @@
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
-		"tall"			"410"
+		"tall"			"f-20"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 

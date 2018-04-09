@@ -13,7 +13,7 @@
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"0 0 0 255"
 	}
 
 	"TitleGradient"
@@ -59,10 +59,10 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"GradientRight"
-		"xpos"		"rs1"
+		"xpos"		"9999"
 		"ypos"		"0"
-		"wide"		"20"
-		"tall"		"f0"
+		"wide"		"0"
+		"tall"		"0"
 		"zpos"	"1000"
 		"visible"		"1"
 		"enabled"		"1"
@@ -127,7 +127,7 @@
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
-		"tall"			"410"
+		"tall"			"f-20"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 
