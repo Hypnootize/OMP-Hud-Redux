@@ -1,3 +1,4 @@
+#base "../resource/crosshairs/Crosshair Fonts.res"
 //
 // TRACKER SCHEME RESOURCE FILE
 //

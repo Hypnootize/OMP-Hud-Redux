@@ -1,26 +1,7 @@
+#base "../scripts/Crosshairs/crosshairs.res"
+
 "Resource/HudLayout.res"
 {
-
-	//to enable crosshair, change visible to 1
-	//refer to crosshairs.png in root for labeltexts for xhairs
-	//also visit hudanimations_omp.txt to activate damage flash
-	
-	"OmpCrosshair"
-	{
-		"controlName" 	"CExLabel"
-		"fieldName" 	"OmpCrosshair"
-		"font" 			"Crosshairs32"
-		"fgcolor" 		"255 0 255 255"
-		"labelText" 	"m"
-		"xpos" 			"c-100"
-		"ypos" 			"c-103"
-		"wide" 			"200"
-		"tall" 			"200"
-		"visible" 		"0"
-		"enabled" 		"1"
-		"textAlignment" "center"
-	}
-
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
