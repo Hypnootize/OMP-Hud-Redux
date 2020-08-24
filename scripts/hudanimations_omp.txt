@@ -293,3 +293,13 @@ event CasualCategory_Checkbox_Show
 
 	//Animate Title		FgColor TanLight Deaccel 0 0.2
 }
+
+event CompetitiveGame_LowerChatWindow
+{
+}
+event CompetitiveGame_RestoreChatWindow
+{
+}
+event HudTournament_MoveChatWindow
+{
+}
